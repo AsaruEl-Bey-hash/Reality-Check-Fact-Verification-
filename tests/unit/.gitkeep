@@ -1,0 +1,2 @@
+# Intentionally empty — tracked by Git.
+# Unit tests (fast, isolated). One per source module as it is built.
