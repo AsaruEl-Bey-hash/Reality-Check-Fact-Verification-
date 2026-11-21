@@ -10,8 +10,7 @@ framework-specific code or build config yet. Pick a stack before adding any.
 
 ## What this is
 
-Reality-Check turns a factual assertion into a verifiable, citable conclusion.
-Every verdict should be traceable to sources, reproducible, and auditable.
+R3ALITY CHECK is the shared mentor and evidence-checking workflow used by all six REBEL RELAY agents from their specialist desks. ECHO specializes in verification and media provenance. It turns factual assertions into citable evidence records. Human editors own the final classification and publication; human viewers can inspect published classifications, evidence, rationale, and limitations.
 
 The core pipeline:
 
