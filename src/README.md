@@ -1,15 +1,10 @@
-# src/
+# Source layout
 
-Application code lives here. The folders below are an intentional, language-
-agnostic starter layout — add or remove freely once a stack is chosen.
+- `components/` — presentation contract and host integration notes.
+- `data/` — shared verification types and statuses.
+- `services/` — provider-driven claim checking orchestration.
+- `utils/` — evidence and verdict guardrails.
 
-```
-src/
-├── components/   # UI or presentation layer (views, widgets, templates)
-├── services/     # business logic: sourcing, verification, verdicts
-├── data/         # persistence + access to claims / sources / verifications
-└── utils/        # shared helpers, parsing, formatting, testing utilities
-```
-
-The folders are currently empty (tracked via `.gitkeep`). Drop real modules in
-as you build. See `docs/` and `docs/adr/` for context and decisions.
+R3ALITY CHECK is the verification guide and workflow. ECHO is its AI guide; a
+human editor retains the final decision. REBEL RELAY is the separate AI agent
+team that gathers and relays information to newsroom staff.
